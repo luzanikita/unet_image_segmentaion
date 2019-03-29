@@ -1,0 +1,15 @@
+Python version 3.7
+Anaconda 4.6.8
+Jupyter Lab/Notebook
+
+Modules:
+- os, sys, random, warning - standart python modules
+- tqdm, itertools - modules for tracking progress in loops
+- numpy (1.16.12), pandas (0.24.2), matplotlib (3.0.3) - math, tables, visualization
+- skimage (0.14.2) - image processing
+- tensorflow (1.3.0), keras (2.2.4) - deep leaning frameworks
+
+Directories:
+input/ - storing training and testing images and masks
+output/ - storing weights of deep learning model
+scripts/ - storing main scripts for training model and predicting masks, ipython notebook (draft)
